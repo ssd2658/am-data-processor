@@ -1,0 +1,1152 @@
+2025-01-21 21:55:49,623 - processor - INFO - [processors.py:8] - Initializing DocumentProcessor
+2025-01-21 21:55:50,091 - processor - INFO - [processors.py:8] - Initializing DocumentProcessor
+2025-01-21 21:58:22,826 - processor - INFO - [processors.py:13] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 21:58:22,827 - processor - INFO - [processors.py:18] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 21:58:23,192 - processor - INFO - [processors.py:38] - Successfully read Excel file with 106 rows
+2025-01-21 21:58:23,196 - processor - INFO - [processors.py:153] - Extracted 0 holdings and 0 sectors
+2025-01-21 22:02:54,658 - processor - INFO - [processors.py:8] - Initializing DocumentProcessor
+2025-01-21 22:03:08,378 - processor - INFO - [processors.py:13] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 22:03:08,378 - processor - INFO - [processors.py:18] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 22:03:08,595 - processor - INFO - [processors.py:38] - Successfully read Excel file with 106 rows
+2025-01-21 22:03:08,597 - processor - INFO - [processors.py:153] - Extracted 0 holdings and 0 sectors
+2025-01-21 22:09:50,651 - processor - INFO - [processors.py:13] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:09:50,652 - processor - INFO - [processors.py:18] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:09:50,755 - processor - INFO - [processors.py:38] - Successfully read Excel file with 154 rows
+2025-01-21 22:09:50,756 - processor - INFO - [processors.py:153] - Extracted 0 holdings and 0 sectors
+2025-01-21 22:13:55,594 - processor - INFO - [processors.py:13] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:13:55,594 - processor - INFO - [processors.py:18] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:13:55,782 - processor - INFO - [processors.py:38] - Successfully read Excel file with 154 rows
+2025-01-21 22:13:55,783 - processor - INFO - [processors.py:153] - Extracted 0 holdings and 0 sectors
+2025-01-21 22:25:37,907 - processor - INFO - [processors.py:8] - Initializing DocumentProcessor
+2025-01-21 22:26:24,133 - processor - INFO - [processors.py:13] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:26:24,135 - processor - INFO - [processors.py:18] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 22:26:24,678 - processor - INFO - [processors.py:38] - Successfully read Excel file with 154 rows
+2025-01-21 22:26:24,686 - processor - INFO - [processors.py:153] - Extracted 0 holdings and 0 sectors
+2025-01-21 23:14:05,000 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-21 23:27:37,576 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-21 23:36:46,294 - processor - INFO - [processors.py:62] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 23:36:46,294 - processor - INFO - [processors.py:68] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 23:36:46,549 - processor - INFO - [processors.py:147] - Starting Claude AI-powered data extraction
+2025-01-21 23:37:05,935 - processor - INFO - [processors.py:177] - Successfully extracted structured data using Claude AI
+2025-01-21 23:38:07,647 - processor - INFO - [processors.py:62] - Starting to process file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 23:38:07,648 - processor - INFO - [processors.py:68] - Processing Excel file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 23:38:07,963 - processor - INFO - [processors.py:147] - Starting Claude AI-powered data extraction
+2025-01-21 23:38:28,240 - processor - INFO - [processors.py:177] - Successfully extracted structured data using Claude AI
+2025-01-21 23:39:52,894 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-21 23:40:17,009 - processor - INFO - [processors.py:63] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 23:40:17,009 - processor - INFO - [processors.py:125] - Reading file with extension: .xls
+2025-01-21 23:40:17,206 - processor - INFO - [processors.py:70] - Sending content to Claude AI for processing
+2025-01-21 23:40:28,314 - processor - INFO - [processors.py:86] - Received response from Claude AI
+2025-01-21 23:40:28,315 - processor - INFO - [processors.py:102] - Successfully parsed Claude's response into JSON
+2025-01-21 23:42:50,193 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-21 23:42:56,374 - processor - INFO - [processors.py:63] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-21 23:42:56,374 - processor - INFO - [processors.py:125] - Reading file with extension: .xls
+2025-01-21 23:42:56,568 - processor - INFO - [processors.py:70] - Sending content to Claude AI for processing
+2025-01-21 23:43:09,376 - processor - INFO - [processors.py:86] - Received response from Claude AI
+2025-01-21 23:43:09,377 - processor - INFO - [processors.py:87] - Raw Claude Response: [TextBlock(text='Here is the extracted information in JSON format:\n\n{\n  "fund_info": {\n    "name": "ADITYA BIRLA SUN LIFE MUTUAL FUND",\n    "type": "Mutual Fund",\n    "aum": null,\n    "currency": "INR"\n  },\n  "holdings": [],\n  "sector_allocation": [],\n  "performance_metrics": {\n    "returns": {\n      "one_year": null,\n      "three_year": null, \n      "five_year": null\n    },\n    "risk_metrics": {\n      "volatility": null,\n      "sharpe_ratio": null,\n      "beta": null\n    }\n  }\n}\n\nNote that the provided text only contains a list of fund names/codes for Aditya Birla Sun Life Mutual Fund. It does not contain any information on assets under management, holdings, sector allocations or performance metrics. Therefore, those fields are left as null in the JSON output.', type='text')]
+2025-01-21 23:43:09,377 - processor - INFO - [processors.py:93] - Extracted text from response: Here is the extracted information in JSON format:
+
+{
+  "fund_info": {
+    "name": "ADITYA BIRLA SUN LIFE MUTUAL FUND",
+    "type": "Mutual Fund",
+    "aum": null,
+    "currency": "INR"
+  },
+  "holdings": [],
+  "sector_allocation": [],
+  "performance_metrics": {
+    "returns": {
+      "one_year": null,
+      "three_year": null, 
+      "five_year": null
+    },
+    "risk_metrics": {
+      "volatility": null,
+      "sharpe_ratio": null,
+      "beta": null
+    }
+  }
+}
+
+Note that the provided text only contains a list of fund names/codes for Aditya Birla Sun Life Mutual Fund. It does not contain any information on assets under management, holdings, sector allocations or performance metrics. Therefore, those fields are left as null in the JSON output.
+2025-01-21 23:43:09,379 - processor - INFO - [processors.py:102] - Successfully parsed Claude's response into JSON
+2025-01-22 00:04:33,457 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:04:49,379 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:06:17,092 - processor - INFO - [processors.py:60] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-22 00:06:17,092 - processor - INFO - [processors.py:122] - Reading file with extension: .xls
+2025-01-22 00:06:17,093 - processor - INFO - [processors.py:126] - Processing Excel file
+2025-01-22 00:06:17,260 - processor - INFO - [processors.py:130] - Found 154 sheets: ['Index', 'ADVG', 'BANKETF', 'BBIF', 'BBP', 'BDB', 'BDYP', 'BFL', 'BFS', 'BINFRA', 'BINTEQA', 'BINTEQB', 'BSL95F', 'BSLAAMM', 'BSLADMM', 'BSLBBYW', 'BSLBKFS', 'BSLCBF', 'BSLCM', 'BSLDAAF', 'BSLDUA2', 'BSLEAF', 'BSLEQSF', 'BSLEQTY', 'BSLFEF', 'BSLFPAP', 'BSLFPCP', 'BSLFPPP', 'BSLGCF', 'BSLGRE', 'BSLIF', 'BSLINTQ1', 'BSLMFG', 'BSLMTP', 'BSLNMF', 'BSLONF', 'BSLPHF', 'BSLR96', 'BSLRF30', 'BSLRF40', 'BSLRF50', 'BSLRF50P', 'BSLRUG1', 'BSLRUG2', 'BSLRUG3', 'BSLRUG4', 'BSLRUG5', 'BSLRUG6', 'BSLRUG7', 'BSLSTF', 'BSLTA1', 'BTOP100', 'CASH', 'CFAP', 'FTPOD', 'FTPOE', 'FTPOF', 'FTPOG', 'FTPOH', 'FTPOI', 'FTPOJ', 'FTPOK', 'FTPOL', 'FTPOM', 'FTPOT', 'FTPOW', 'FTPOX', 'FTPOY', 'FTPOZ', 'FTPPA', 'FTPPB', 'FTPPC', 'FTPPD', 'FTPPE', 'FTPPF', 'FTPPG', 'FTPPH', 'FTPPI', 'FTPPJ', 'FTPPK', 'FTPPM', 'FTPPN', 'FTPPO', 'FTPPR', 'FTPPT', 'FTPPU', 'FTPPV', 'FTPPW', 'FTPPY', 'FTPPZ', 'FTPQB', 'FTPQC', 'FTPQE', 'FTPQF', 'FTPQG', 'FTPQH', 'FTPQI', 'FTPQJ', 'FTPQK', 'FTPQL', 'FTPQM', 'FTPQN', 'FTPQO', 'FTPQP', 'FTPQQ', 'FTPQR', 'FTPQS', 'FTPQT', 'FTPQU', 'FTPQV', 'FTPQW', 'FTPQX', 'FTPQY', 'FTPRA', 'FTPRC', 'FTPRD', 'FTPRE', 'FTPRH', 'FTPRI', 'FTPRL', 'FTPRN', 'FTPRO', 'FTPRP', 'FTPRQ', 'FTPRR', 'FTPRU', 'FTPRV', 'FTPRW', 'FTPRX', 'FTPRY', 'FTPSA', 'FTPSF', 'FTPSG', 'FTPSI', 'FTPSJ', 'FTPSK', 'FTPSL', 'FTPSN', 'FTPSO', 'GENNEXT', 'GOLDETF', 'GOLDFOF', 'INV', 'MIDCAP', 'MIP25', 'MNC', 'NIFTY', 'NIFTYETF', 'NIFYNX50', 'PLUS', 'PSUEQ', 'PURE', 'SENSXETF', 'TAX99']
+2025-01-22 00:06:17,262 - processor - INFO - [processors.py:136] - Processing sheet: ADVG
+2025-01-22 00:06:17,431 - processor - INFO - [processors.py:180] - Successfully processed Excel sheet
+2025-01-22 00:06:17,431 - processor - INFO - [processors.py:67] - Sending content to Claude AI for processing
+2025-01-22 00:06:29,208 - processor - INFO - [processors.py:83] - Received response from Claude AI
+2025-01-22 00:06:29,208 - processor - INFO - [processors.py:84] - Raw Claude Response: [TextBlock(text='Based on the provided portfolio document, here is the extracted information in the requested JSON format:\n\n{\n  "fund_info": {\n    "name": "ADVG",\n    "id": null,\n    "type": null,\n    "aum": 0,\n    "currency": "INR"\n  },\n  "holdings": [],\n  "sector_allocation": []\n}\n\nThe document does not contain any actual stock holdings data. All the stock names, ISINs, sectors and market values are blank or zero. Therefore, the holdings array is empty and there is no sector allocation data available.\n\nThe fund name is extracted as "ADVG" based on the text "Fund Name: ADVG". \n\nThe fund ID, type and AUM could not be determined from the provided information. The currency is assumed to be INR.', type='text')]
+2025-01-22 00:06:29,209 - processor - INFO - [processors.py:90] - Extracted text from response: Based on the provided portfolio document, here is the extracted information in the requested JSON format:
+
+{
+  "fund_info": {
+    "name": "ADVG",
+    "id": null,
+    "type": null,
+    "aum": 0,
+    "currency": "INR"
+  },
+  "holdings": [],
+  "sector_allocation": []
+}
+
+The document does not contain any actual stock holdings data. All the stock names, ISINs, sectors and market values are blank or zero. Therefore, the holdings array is empty and there is no sector allocation data available.
+
+The fund name is extracted as "ADVG" based on the text "Fund Name: ADVG". 
+
+The fund ID, type and AUM could not be determined from the provided information. The currency is assumed to be INR.
+2025-01-22 00:06:29,210 - processor - INFO - [processors.py:99] - Successfully parsed Claude's response into JSON
+2025-01-22 00:08:53,913 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:09:21,395 - processor - INFO - [processors.py:60] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-22 00:09:21,396 - processor - INFO - [processors.py:122] - Reading file with extension: .xls
+2025-01-22 00:09:21,396 - processor - INFO - [processors.py:126] - Processing Excel file
+2025-01-22 00:09:21,571 - processor - INFO - [processors.py:130] - Found 154 sheets: ['Index', 'ADVG', 'BANKETF', 'BBIF', 'BBP', 'BDB', 'BDYP', 'BFL', 'BFS', 'BINFRA', 'BINTEQA', 'BINTEQB', 'BSL95F', 'BSLAAMM', 'BSLADMM', 'BSLBBYW', 'BSLBKFS', 'BSLCBF', 'BSLCM', 'BSLDAAF', 'BSLDUA2', 'BSLEAF', 'BSLEQSF', 'BSLEQTY', 'BSLFEF', 'BSLFPAP', 'BSLFPCP', 'BSLFPPP', 'BSLGCF', 'BSLGRE', 'BSLIF', 'BSLINTQ1', 'BSLMFG', 'BSLMTP', 'BSLNMF', 'BSLONF', 'BSLPHF', 'BSLR96', 'BSLRF30', 'BSLRF40', 'BSLRF50', 'BSLRF50P', 'BSLRUG1', 'BSLRUG2', 'BSLRUG3', 'BSLRUG4', 'BSLRUG5', 'BSLRUG6', 'BSLRUG7', 'BSLSTF', 'BSLTA1', 'BTOP100', 'CASH', 'CFAP', 'FTPOD', 'FTPOE', 'FTPOF', 'FTPOG', 'FTPOH', 'FTPOI', 'FTPOJ', 'FTPOK', 'FTPOL', 'FTPOM', 'FTPOT', 'FTPOW', 'FTPOX', 'FTPOY', 'FTPOZ', 'FTPPA', 'FTPPB', 'FTPPC', 'FTPPD', 'FTPPE', 'FTPPF', 'FTPPG', 'FTPPH', 'FTPPI', 'FTPPJ', 'FTPPK', 'FTPPM', 'FTPPN', 'FTPPO', 'FTPPR', 'FTPPT', 'FTPPU', 'FTPPV', 'FTPPW', 'FTPPY', 'FTPPZ', 'FTPQB', 'FTPQC', 'FTPQE', 'FTPQF', 'FTPQG', 'FTPQH', 'FTPQI', 'FTPQJ', 'FTPQK', 'FTPQL', 'FTPQM', 'FTPQN', 'FTPQO', 'FTPQP', 'FTPQQ', 'FTPQR', 'FTPQS', 'FTPQT', 'FTPQU', 'FTPQV', 'FTPQW', 'FTPQX', 'FTPQY', 'FTPRA', 'FTPRC', 'FTPRD', 'FTPRE', 'FTPRH', 'FTPRI', 'FTPRL', 'FTPRN', 'FTPRO', 'FTPRP', 'FTPRQ', 'FTPRR', 'FTPRU', 'FTPRV', 'FTPRW', 'FTPRX', 'FTPRY', 'FTPSA', 'FTPSF', 'FTPSG', 'FTPSI', 'FTPSJ', 'FTPSK', 'FTPSL', 'FTPSN', 'FTPSO', 'GENNEXT', 'GOLDETF', 'GOLDFOF', 'INV', 'MIDCAP', 'MIP25', 'MNC', 'NIFTY', 'NIFTYETF', 'NIFYNX50', 'PLUS', 'PSUEQ', 'PURE', 'SENSXETF', 'TAX99']
+2025-01-22 00:09:21,573 - processor - INFO - [processors.py:136] - Processing sheet: ADVG
+2025-01-22 00:09:21,795 - processor - INFO - [processors.py:180] - Successfully processed Excel sheet
+2025-01-22 00:09:21,796 - processor - INFO - [processors.py:67] - Sending content to Claude AI for processing
+2025-01-22 00:09:34,146 - processor - INFO - [processors.py:83] - Received response from Claude AI
+2025-01-22 00:09:34,147 - processor - INFO - [processors.py:84] - Raw Claude Response: [TextBlock(text='Based on the provided portfolio data, here is the extracted information in the requested JSON format:\n\n{\n  "fund_info": {\n    "name": "ADVG",\n    "id": null,\n    "type": null,\n    "aum": 0,\n    "currency": "INR"\n  },\n  "holdings": [],\n  "sector_allocation": []\n}\n\nThe portfolio data provided does not contain any actual holdings information. All the stock names, ISINs, sectors, and market values are blank or zero. Therefore, the "holdings" array is empty.\n\nSince there are no holdings, it is not possible to calculate sector allocations. The "sector_allocation" array is also empty.\n\nThe fund name is extracted as "ADVG" based on the provided text. However, the fund ID (ISIN or unique identifier) and fund type are not available in the given data.\n\nThe total portfolio value (AUM) is zero since all the market values are zero.\n\nThe currency is assumed to be "INR" (Indian Rupees) based on the context of SEBI mutual fund disclosures.', type='text')]
+2025-01-22 00:09:34,147 - processor - INFO - [processors.py:90] - Extracted text from response: Based on the provided portfolio data, here is the extracted information in the requested JSON format:
+
+{
+  "fund_info": {
+    "name": "ADVG",
+    "id": null,
+    "type": null,
+    "aum": 0,
+    "currency": "INR"
+  },
+  "holdings": [],
+  "sector_allocation": []
+}
+
+The portfolio data provided does not contain any actual holdings information. All the stock names, ISINs, sectors, and market values are blank or zero. Therefore, the "holdings" array is empty.
+
+Since there are no holdings, it is not possible to calculate sector allocations. The "sector_allocation" array is also empty.
+
+The fund name is extracted as "ADVG" based on the provided text. However, the fund ID (ISIN or unique identifier) and fund type are not available in the given data.
+
+The total portfolio value (AUM) is zero since all the market values are zero.
+
+The currency is assumed to be "INR" (Indian Rupees) based on the context of SEBI mutual fund disclosures.
+2025-01-22 00:09:34,149 - processor - INFO - [processors.py:99] - Successfully parsed Claude's response into JSON
+2025-01-22 00:11:31,192 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:11:52,889 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:12:16,220 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:12:36,791 - processor - INFO - [processors.py:70] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-22 00:12:36,791 - processor - INFO - [processors.py:132] - Reading file with extension: .xls
+2025-01-22 00:12:36,792 - processor - INFO - [processors.py:136] - Processing Excel file
+2025-01-22 00:12:36,993 - processor - INFO - [processors.py:140] - Found 154 sheets: ['Index', 'ADVG', 'BANKETF', 'BBIF', 'BBP', 'BDB', 'BDYP', 'BFL', 'BFS', 'BINFRA', 'BINTEQA', 'BINTEQB', 'BSL95F', 'BSLAAMM', 'BSLADMM', 'BSLBBYW', 'BSLBKFS', 'BSLCBF', 'BSLCM', 'BSLDAAF', 'BSLDUA2', 'BSLEAF', 'BSLEQSF', 'BSLEQTY', 'BSLFEF', 'BSLFPAP', 'BSLFPCP', 'BSLFPPP', 'BSLGCF', 'BSLGRE', 'BSLIF', 'BSLINTQ1', 'BSLMFG', 'BSLMTP', 'BSLNMF', 'BSLONF', 'BSLPHF', 'BSLR96', 'BSLRF30', 'BSLRF40', 'BSLRF50', 'BSLRF50P', 'BSLRUG1', 'BSLRUG2', 'BSLRUG3', 'BSLRUG4', 'BSLRUG5', 'BSLRUG6', 'BSLRUG7', 'BSLSTF', 'BSLTA1', 'BTOP100', 'CASH', 'CFAP', 'FTPOD', 'FTPOE', 'FTPOF', 'FTPOG', 'FTPOH', 'FTPOI', 'FTPOJ', 'FTPOK', 'FTPOL', 'FTPOM', 'FTPOT', 'FTPOW', 'FTPOX', 'FTPOY', 'FTPOZ', 'FTPPA', 'FTPPB', 'FTPPC', 'FTPPD', 'FTPPE', 'FTPPF', 'FTPPG', 'FTPPH', 'FTPPI', 'FTPPJ', 'FTPPK', 'FTPPM', 'FTPPN', 'FTPPO', 'FTPPR', 'FTPPT', 'FTPPU', 'FTPPV', 'FTPPW', 'FTPPY', 'FTPPZ', 'FTPQB', 'FTPQC', 'FTPQE', 'FTPQF', 'FTPQG', 'FTPQH', 'FTPQI', 'FTPQJ', 'FTPQK', 'FTPQL', 'FTPQM', 'FTPQN', 'FTPQO', 'FTPQP', 'FTPQQ', 'FTPQR', 'FTPQS', 'FTPQT', 'FTPQU', 'FTPQV', 'FTPQW', 'FTPQX', 'FTPQY', 'FTPRA', 'FTPRC', 'FTPRD', 'FTPRE', 'FTPRH', 'FTPRI', 'FTPRL', 'FTPRN', 'FTPRO', 'FTPRP', 'FTPRQ', 'FTPRR', 'FTPRU', 'FTPRV', 'FTPRW', 'FTPRX', 'FTPRY', 'FTPSA', 'FTPSF', 'FTPSG', 'FTPSI', 'FTPSJ', 'FTPSK', 'FTPSL', 'FTPSN', 'FTPSO', 'GENNEXT', 'GOLDETF', 'GOLDFOF', 'INV', 'MIDCAP', 'MIP25', 'MNC', 'NIFTY', 'NIFTYETF', 'NIFYNX50', 'PLUS', 'PSUEQ', 'PURE', 'SENSXETF', 'TAX99']
+2025-01-22 00:12:36,995 - processor - INFO - [processors.py:145] - Processing sheet: ADVG
+2025-01-22 00:12:37,209 - processor - INFO - [processors.py:169] - Successfully processed Excel sheet
+2025-01-22 00:12:37,210 - processor - INFO - [processors.py:77] - Sending content to Claude AI for processing
+2025-01-22 00:13:10,695 - processor - INFO - [processors.py:93] - Received response from Claude AI
+2025-01-22 00:13:10,696 - processor - INFO - [processors.py:94] - Raw Claude Response: [TextBlock(text='Here is the extracted JSON object based on the provided mutual fund portfolio data:\n\n{\n  "fund_info": {\n    "name": "ADITYA BIRLA SUN LIFE EQUITY ADVANTAGE FUND",\n    "id": "ADVG",\n    "type": "Equity",\n    "aum": 503934.85,\n    "currency": "INR"\n  },\n  "holdings": [\n    {\n      "stock_name": "ICICI Bank Limited",\n      "isin": "INE090A01021",\n      "sector": "BANKS",\n      "percentage": 0.093367,\n      "value": 47051.07\n    },\n    {\n      "stock_name": "HDFC Bank Limited",\n      "isin": "INE040A01034", \n      "sector": "BANKS",\n      "percentage": 0.076688,\n      "value": 38645.9\n    },\n    {\n      "stock_name": "Bajaj Finance Limited",\n      "isin": "INE296A01024",\n      "sector": "FINANCE",\n      "percentage": 0.061407,\n      "value": 30945.32\n    },\n    {\n      "stock_name": "Reliance Industries Limited",\n      "isin": "INE002A01018",\n      "sector": "PETROLEUM PRODUCTS",\n      "percentage": 0.049733,\n      "value": 25061.94\n    },\n    {\n      "stock_name": "Shree Cement Limited",\n      "isin": "INE070A01015",\n      "sector": "CEMENT",\n      "percentage": 0.036304,\n      "value": 18295.09\n    }\n  ],\n  "sector_allocation": [\n    {\n      "name": "BANKS",\n      "total_value": 99375.82,\n      "percentage_holding": 0.197196,\n      "number_of_stocks": 5,\n      "companies": [\n        "INE090A01021",\n        "INE040A01034",\n        "INE238A01034",\n        "INE062A01020",\n        "INE545U01014"  \n      ],\n      "allocation": 0.197196\n    },\n    {\n      "name": "FINANCE",\n      "total_value": 53169.65,\n      "percentage_holding": 0.105536,\n      "number_of_stocks": 5,\n      "companies": [\n        "INE296A01024",\n        "INE765G01017",\n        "INE115A01026",\n        "INE121A01024",\n        "INE763G01038"\n      ],\n      "allocation": 0.105536\n    },\n    {\n      "name": "CONSUMER DURABLES",\n      "total_value": 65535.97,\n      "percentage_holding": 0.130066,\n      "number_of_stocks": 5,\n      "companies": [\n        "INE299U01018",\n        "INE226A01021",\n        "INE176A01028",\n        "INE280A01028",\n        "INE716A01013"\n      ],\n      "allocation": 0.130066\n    }\n  ]\n}\n\nNote: The holdings and sector allocations are truncated for brevity. The actual output will contain all holdings and sectors present in the data, following the specified JSON structure.', type='text')]
+2025-01-22 00:13:10,697 - processor - INFO - [processors.py:100] - Extracted text from response: Here is the extracted JSON object based on the provided mutual fund portfolio data:
+
+{
+  "fund_info": {
+    "name": "ADITYA BIRLA SUN LIFE EQUITY ADVANTAGE FUND",
+    "id": "ADVG",
+    "type": "Equity",
+    "aum": 503934.85,
+    "currency": "INR"
+  },
+  "holdings": [
+    {
+      "stock_name": "ICICI Bank Limited",
+      "isin": "INE090A01021",
+      "sector": "BANKS",
+      "percentage": 0.093367,
+      "value": 47051.07
+    },
+    {
+      "stock_name": "HDFC Bank Limited",
+      "isin": "INE040A01034", 
+      "sector": "BANKS",
+      "percentage": 0.076688,
+      "value": 38645.9
+    },
+    {
+      "stock_name": "Bajaj Finance Limited",
+      "isin": "INE296A01024",
+      "sector": "FINANCE",
+      "percentage": 0.061407,
+      "value": 30945.32
+    },
+    {
+      "stock_name": "Reliance Industries Limited",
+      "isin": "INE002A01018",
+      "sector": "PETROLEUM PRODUCTS",
+      "percentage": 0.049733,
+      "value": 25061.94
+    },
+    {
+      "stock_name": "Shree Cement Limited",
+      "isin": "INE070A01015",
+      "sector": "CEMENT",
+      "percentage": 0.036304,
+      "value": 18295.09
+    }
+  ],
+  "sector_allocation": [
+    {
+      "name": "BANKS",
+      "total_value": 99375.82,
+      "percentage_holding": 0.197196,
+      "number_of_stocks": 5,
+      "companies": [
+        "INE090A01021",
+        "INE040A01034",
+        "INE238A01034",
+        "INE062A01020",
+        "INE545U01014"  
+      ],
+      "allocation": 0.197196
+    },
+    {
+      "name": "FINANCE",
+      "total_value": 53169.65,
+      "percentage_holding": 0.105536,
+      "number_of_stocks": 5,
+      "companies": [
+        "INE296A01024",
+        "INE765G01017",
+        "INE115A01026",
+        "INE121A01024",
+        "INE763G01038"
+      ],
+      "allocation": 0.105536
+    },
+    {
+      "name": "CONSUMER DURABLES",
+      "total_value": 65535.97,
+      "percentage_holding": 0.130066,
+      "number_of_stocks": 5,
+      "companies": [
+        "INE299U01018",
+        "INE226A01021",
+        "INE176A01028",
+        "INE280A01028",
+        "INE716A01013"
+      ],
+      "allocation": 0.130066
+    }
+  ]
+}
+
+Note: The holdings and sector allocations are truncated for brevity. The actual output will contain all holdings and sectors present in the data, following the specified JSON structure.
+2025-01-22 00:13:10,704 - processor - INFO - [processors.py:109] - Successfully parsed Claude's response into JSON
+2025-01-22 00:18:21,320 - processor - INFO - [processors.py:15] - Initializing DocumentProcessor
+2025-01-22 00:18:42,653 - processor - INFO - [processors.py:73] - Processing file: C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls
+2025-01-22 00:18:42,654 - processor - INFO - [processors.py:135] - Reading file with extension: .xls
+2025-01-22 00:18:42,654 - processor - INFO - [processors.py:139] - Processing Excel file
+2025-01-22 00:18:43,066 - processor - INFO - [processors.py:142] - Found 154 sheets: ['Index', 'ADVG', 'BANKETF', 'BBIF', 'BBP', 'BDB', 'BDYP', 'BFL', 'BFS', 'BINFRA', 'BINTEQA', 'BINTEQB', 'BSL95F', 'BSLAAMM', 'BSLADMM', 'BSLBBYW', 'BSLBKFS', 'BSLCBF', 'BSLCM', 'BSLDAAF', 'BSLDUA2', 'BSLEAF', 'BSLEQSF', 'BSLEQTY', 'BSLFEF', 'BSLFPAP', 'BSLFPCP', 'BSLFPPP', 'BSLGCF', 'BSLGRE', 'BSLIF', 'BSLINTQ1', 'BSLMFG', 'BSLMTP', 'BSLNMF', 'BSLONF', 'BSLPHF', 'BSLR96', 'BSLRF30', 'BSLRF40', 'BSLRF50', 'BSLRF50P', 'BSLRUG1', 'BSLRUG2', 'BSLRUG3', 'BSLRUG4', 'BSLRUG5', 'BSLRUG6', 'BSLRUG7', 'BSLSTF', 'BSLTA1', 'BTOP100', 'CASH', 'CFAP', 'FTPOD', 'FTPOE', 'FTPOF', 'FTPOG', 'FTPOH', 'FTPOI', 'FTPOJ', 'FTPOK', 'FTPOL', 'FTPOM', 'FTPOT', 'FTPOW', 'FTPOX', 'FTPOY', 'FTPOZ', 'FTPPA', 'FTPPB', 'FTPPC', 'FTPPD', 'FTPPE', 'FTPPF', 'FTPPG', 'FTPPH', 'FTPPI', 'FTPPJ', 'FTPPK', 'FTPPM', 'FTPPN', 'FTPPO', 'FTPPR', 'FTPPT', 'FTPPU', 'FTPPV', 'FTPPW', 'FTPPY', 'FTPPZ', 'FTPQB', 'FTPQC', 'FTPQE', 'FTPQF', 'FTPQG', 'FTPQH', 'FTPQI', 'FTPQJ', 'FTPQK', 'FTPQL', 'FTPQM', 'FTPQN', 'FTPQO', 'FTPQP', 'FTPQQ', 'FTPQR', 'FTPQS', 'FTPQT', 'FTPQU', 'FTPQV', 'FTPQW', 'FTPQX', 'FTPQY', 'FTPRA', 'FTPRC', 'FTPRD', 'FTPRE', 'FTPRH', 'FTPRI', 'FTPRL', 'FTPRN', 'FTPRO', 'FTPRP', 'FTPRQ', 'FTPRR', 'FTPRU', 'FTPRV', 'FTPRW', 'FTPRX', 'FTPRY', 'FTPSA', 'FTPSF', 'FTPSG', 'FTPSI', 'FTPSJ', 'FTPSK', 'FTPSL', 'FTPSN', 'FTPSO', 'GENNEXT', 'GOLDETF', 'GOLDFOF', 'INV', 'MIDCAP', 'MIP25', 'MNC', 'NIFTY', 'NIFTYETF', 'NIFYNX50', 'PLUS', 'PSUEQ', 'PURE', 'SENSXETF', 'TAX99']
+2025-01-22 00:18:43,082 - processor - INFO - [processors.py:146] - Processing sheet: ADVG
+2025-01-22 00:18:44,327 - processor - INFO - [processors.py:192] - Processed 70 records from Excel sheet
+2025-01-22 00:18:44,327 - processor - INFO - [processors.py:80] - Sending content to Claude AI for processing
+2025-01-22 00:21:12,217 - processor - INFO - [processors.py:96] - Received response from Claude AI
+2025-01-22 00:21:12,217 - processor - INFO - [processors.py:97] - Raw Claude Response: [TextBlock(text='Here is the extracted JSON object with all holdings and sector information from the provided mutual fund portfolio data:\n\n{\n    "fund_info": {\n        "name": "ADVG",\n        "id": null,\n        "type": null,\n        "aum": 503934.85,\n        "currency": "INR"\n    },\n    "holdings": [\n        {\n            "stock_name": "ICICI Bank Limited",\n            "isin": "INE090A01021",\n            "sector": "BANKS",\n            "percentage": 0.093367,\n            "value": 47051.07\n        },\n        {\n            "stock_name": "HDFC Bank Limited",\n            "isin": "INE040A01034",\n            "sector": "BANKS",\n            "percentage": 0.076688,\n            "value": 38645.9\n        },\n        {\n            "stock_name": "Bajaj Finance Limited",\n            "isin": "INE296A01024",\n            "sector": "FINANCE",\n            "percentage": 0.061407,\n            "value": 30945.32\n        },\n        {\n            "stock_name": "Reliance Industries Limited",\n            "isin": "INE002A01018",\n            "sector": "PETROLEUM PRODUCTS",\n            "percentage": 0.049733,\n            "value": 25061.94\n        },\n        {\n            "stock_name": "Shree Cement Limited",\n            "isin": "INE070A01015",\n            "sector": "CEMENT",\n            "percentage": 0.036304,\n            "value": 18295.09\n        },\n        {\n            "stock_name": "Crompton Greaves Consumer Electricals Limited",\n            "isin": "INE299U01018",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.034327,\n            "value": 17298.7\n        },\n        {\n            "stock_name": "Axis Bank Limited",\n            "isin": "INE238A01034",\n            "sector": "BANKS",\n            "percentage": 0.032877,\n            "value": 16567.95\n        },\n        {\n            "stock_name": "Info Edge (India) Limited",\n            "isin": "INE663F01024",\n            "sector": "SOFTWARE",\n            "percentage": 0.032181,\n            "value": 16217.37\n        },\n        {\n            "stock_name": "The Ramco Cements Limited",\n            "isin": "INE331A01037",\n            "sector": "CEMENT",\n            "percentage": 0.030107,\n            "value": 15172.07\n        },\n        {\n            "stock_name": "Voltas Limited",\n            "isin": "INE226A01021",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.029193,\n            "value": 14711.42\n        },\n        {\n            "stock_name": "State Bank of India",\n            "isin": "INE062A01020",\n            "sector": "BANKS",\n            "percentage": 0.027208,\n            "value": 13710.88\n        },\n        {\n            "stock_name": "Natco Pharma Limited",\n            "isin": "INE987B01026",\n            "sector": "PHARMACEUTICALS",\n            "percentage": 0.024682,\n            "value": 12438.02\n        },\n        {\n            "stock_name": "Larsen & Toubro Infotech Limited",\n            "isin": "INE214T01019",\n            "sector": "SOFTWARE",\n            "percentage": 0.022932,\n            "value": 11556.44\n        },\n        {\n            "stock_name": "Atul Limited",\n            "isin": "INE100A01010",\n            "sector": "CHEMICALS",\n            "percentage": 0.022884,\n            "value": 11531.98\n        },\n        {\n            "stock_name": "Bharti Airtel Limited",\n            "isin": "INE397D01024",\n            "sector": "TELECOM - SERVICES",\n            "percentage": 0.021245,\n            "value": 10705.84\n        },\n        {\n            "stock_name": "Bata India Limited",\n            "isin": "INE176A01028",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.019772,\n            "value": 9963.76\n        },\n        {\n            "stock_name": "ICICI Lombard General Insurance Company Limited",\n            "isin": "INE765G01017",\n            "sector": "FINANCE",\n            "percentage": 0.019584,\n            "value": 9869.15\n        },\n        {\n            "stock_name": "Gujarat Gas Limited",\n            "isin": "INE844O01030",\n            "sector": "GAS",\n            "percentage": 0.019083,\n            "value": 9616.73\n        },\n        {\n            "stock_name": "Titan Company Limited",\n            "isin": "INE280A01028",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.018798,\n            "value": 9472.78\n        },\n        {\n            "stock_name": "Bandhan Bank Limited",\n            "isin": "INE545U01014",\n            "sector": "BANKS",\n            "percentage": 0.018623,\n            "value": 9384.86\n        },\n        {\n            "stock_name": "Aditya Birla Fashion and Retail Limited",\n            "isin": "INE647O01011",\n            "sector": "RETAILING",\n            "percentage": 0.01848,\n            "value": 9312.84\n        },\n        {\n            "stock_name": "Quess Corp Limited",\n            "isin": "INE615P01015",\n            "sector": "SERVICES",\n            "percentage": 0.018109,\n            "value": 9125.78\n        },\n        {\n            "stock_name": "Whirlpool of India Limited",\n            "isin": "INE716A01013",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.016169,\n            "value": 8148.2\n        },\n        {\n            "stock_name": "Nestle India Limited",\n            "isin": "INE239A01016",\n            "sector": "CONSUMER NON DURABLES",\n            "percentage": 0.015925,\n            "value": 8025.16\n        },\n        {\n            "stock_name": "Thermax Limited",\n            "isin": "INE152A01029",\n            "sector": "INDUSTRIAL CAPITAL GOODS",\n            "percentage": 0.015237,\n            "value": 7678.64\n        },\n        {\n            "stock_name": "RBL Bank Limited",\n            "isin": "INE976G01028",\n            "sector": "BANKS",\n            "percentage": 0.014614,\n            "value": 7364.51\n        },\n        {\n            "stock_name": "Oberoi Realty Limited",\n            "isin": "INE093I01010",\n            "sector": "CONSTRUCTION",\n            "percentage": 0.01452,\n            "value": 7316.99\n        },\n        {\n            "stock_name": "Avanti Feeds Limited",\n            "isin": "INE871C01038",\n            "sector": "CONSUMER NON DURABLES",\n            "percentage": 0.013851,\n            "value": 6979.98\n        },\n        {\n            "stock_name": "JK Cement Limited",\n            "isin": "INE823G01014",\n            "sector": "CEMENT",\n            "percentage": 0.013751,\n            "value": 6929.75\n        },\n        {\n            "stock_name": "V-Guard Industries Limited",\n            "isin": "INE951I01027",\n            "sector": "CONSUMER DURABLES",\n            "percentage": 0.012083,\n            "value": 6089.11\n        },\n        {\n            "stock_name": "SRF Limited",\n            "isin": "INE647A01010",\n            "sector": "TEXTILE PRODUCTS",\n            "percentage": 0.012023,\n            "value": 6059.02\n        },\n        {\n            "stock_name": "PI Industries Litmited",\n            "isin": "INE603J01030",\n            "sector": "PESTICIDES",\n            "percentage": 0.011549,\n            "value": 5820.02\n        },\n        {\n            "stock_name": "Jubilant Foodworks Limited",\n            "isin": "INE797F01012",\n            "sector": "CONSUMER NON DURABLES",\n            "percentage": 0.011099,\n            "value": 5593.25\n        },\n        {\n            "stock_name": "Apollo Hospitals Enterprise Limited",\n            "isin": "INE437A01024",\n            "sector": "HEALTHCARE SERVICES",\n            "percentage": 0.010424,\n            "value": 5252.87\n        },\n        {\n            "stock_name": "PVR Limited",\n            "isin": "INE191H01014",\n            "sector": "MEDIA & ENTERTAINMENT",\n            "percentage": 0.009493,\n            "value": 4783.97\n        },\n        {\n            "stock_name": "LIC Housing Finance Limited",\n            "isin": "INE115A01026",\n            "sector": "FINANCE",\n            "percentage": 0.009102,\n            "value": 4586.68\n        },\n        {\n            "stock_name": "SBI Life Insurance Company Limited",\n            "isin": "INE123W01016",\n            "sector": "FINANCE",\n            "percentage": 0.009061,\n            "value": 4565.96\n        },\n        {\n            "stock_name": "Avenue Supermarts Limited",\n            "isin": "INE192R01011",\n            "sector": "RETAILING",\n            "percentage": 0.008884,\n            "value": 4477.03\n        },\n        {\n            "stock_name": "Century Textiles & Industries Limited",\n            "isin": "INE055A01016",\n            "sector": "PAPER",\n            "percentage": 0.007806,\n            "value": 3933.49\n        },\n        {\n            "stock_name": "L&T Technology Services Limited",\n            "isin": "INE010V01017",\n            "sector": "SOFTWARE",\n            "percentage": 0.007664,\n            "value": 3862.28\n        },\n        {\n            "stock_name": "Cholamandalam Investment and Finance Company Limited",\n            "isin": "INE121A01024",\n            "sector": "FINANCE",\n            "percentage": 0.007371,\n            "value": 3714.5\n        },\n        {\n            "stock_name": "Birla Corporation Limited",\n            "isin": "INE340A01012",\n            "sector": "CEMENT",\n            "percentage": 0.006688,\n            "value": 3370.13\n        },\n        {\n            "stock_name": "ICICI Securities Limited",\n            "isin": "INE763G01038",\n            "sector": "FINANCE",\n            "percentage": 0.006444,\n            "value": 3247.27\n        },\n        {\n            "stock_name": "Exide Industries Limited",\n            "isin": "INE302A01020",\n            "sector": "AUTO ANCILLARIES",\n            "percentage": 0.006044,\n            "value": 3045.97\n        },\n        {\n            "stock_name": "Affle (India) Limited",\n            "isin": "INE00WC01019",\n            "sector": "SOFTWARE",\n            "percentage": 0.006009,\n            "value": 3028.3\n        },\n        {\n            "stock_name": "Strides Pharma Science Limited",\n            "isin": "INE939A01011",\n            "sector": "PHARMACEUTICALS",\n            "percentage": 0.00474,\n            "value": 2388.82\n        },\n        {\n            "stock_name": "Eris Lifesciences Limited",\n            "isin": "INE406M01024",\n            "sector": "PHARMACEUTICALS",\n            "percentage": 0.004627,\n            "value": 2331.91\n        },\n        {\n            "stock_name": "Bayer Cropscience Limited",\n            "isin": "INE462A01022",\n            "sector": "PESTICIDES",\n            "percentage": 0.003805,\n            "value": 1917.52\n        },\n        {\n            "stock_name": "Karrox Technologies ** #",\n            "isin": "IDIA00187152",\n            "sector": "MISCELLANEOUS",\n            "percentage": 0,\n            "value": 0\n        },\n        {\n            "stock_name": "Dharti Dredging ** #",\n            "isin": "INE521H01012",\n            "sector": "MISCELLANEOUS",\n            "percentage": 0,\n            "value": 0\n        }\n    ],\n    "sector_allocation": [\n        {\n            "name": "BANKS",\n            "total_value": 147435.17,\n            "percentage_holding": 0.292639,\n            "number_of_stocks": 6,\n            "companies": [\n                "INE090A01021",\n                "INE040A01034",\n                "INE238A01034",\n                "INE062A01020",\n                "INE545U01014",\n                "INE976G01028"\n            ],\n            "allocation": 0.292639\n        },\n        {\n            "name": "FINANCE",\n            "total_value": 59238.51,\n            "percentage_holding": 0.117551,\n            "number_of_stocks": 5,\n            "companies": [\n                "INE296A01024",\n                "INE765G01017",\n                "INE115A01026",\n                "INE123W01016",\n                "INE121A01024",\n                "INE763G01038"\n            ],\n            "allocation": 0.117551\n        },\n        {\n            "name": "CONSUMER DURABLES",\n            "total_value": 76583.97,\n            "percentage_holding": 0.151973,\n            "number_of_stocks": 6,\n            "companies": [\n                "INE299U01018",\n                "INE226A01021",\n                "INE176A01028",\n                "INE280A01028",\n                "INE716A01013",\n                "INE951I01027"\n            ],\n            "allocation": 0.151973\n        },\n        {\n            "name": "SOFTWARE",\n            "total_value": 34664.39,\n            "percentage_holding": 0.068786,\n            "number_of_stocks": 4,\n            "companies": [\n                "INE663F01024",\n                "INE214T01019",\n                "INE010V01017",\n                "INE00WC01019"\n            ],\n            "allocation": 0.068786\n        },\n        {\n            "name": "CEMENT",\n            "total_value": 44867.04,\n            "percentage_holding": 0.089054,\n            "number_of_stocks": 4,\n            "companies": [\n                "INE070A01015",\n                "INE331A01037",\n                "INE823G01014",\n                "INE340A01012"\n            ],\n            "allocation": 0.089054\n        },\n        {\n            "name": "PHARMACEUTICALS",\n            "total_value": 17158.75,\n            "percentage_holding": 0.034049,\n            "number_of_stocks": 3,\n            "companies": [\n                "INE987B01026",', type='text')]
+2025-01-22 00:21:12,228 - processor - INFO - [processors.py:103] - Extracted text from response: Here is the extracted JSON object with all holdings and sector information from the provided mutual fund portfolio data:
+
+{
+    "fund_info": {
+        "name": "ADVG",
+        "id": null,
+        "type": null,
+        "aum": 503934.85,
+        "currency": "INR"
+    },
+    "holdings": [
+        {
+            "stock_name": "ICICI Bank Limited",
+            "isin": "INE090A01021",
+            "sector": "BANKS",
+            "percentage": 0.093367,
+            "value": 47051.07
+        },
+        {
+            "stock_name": "HDFC Bank Limited",
+            "isin": "INE040A01034",
+            "sector": "BANKS",
+            "percentage": 0.076688,
+            "value": 38645.9
+        },
+        {
+            "stock_name": "Bajaj Finance Limited",
+            "isin": "INE296A01024",
+            "sector": "FINANCE",
+            "percentage": 0.061407,
+            "value": 30945.32
+        },
+        {
+            "stock_name": "Reliance Industries Limited",
+            "isin": "INE002A01018",
+            "sector": "PETROLEUM PRODUCTS",
+            "percentage": 0.049733,
+            "value": 25061.94
+        },
+        {
+            "stock_name": "Shree Cement Limited",
+            "isin": "INE070A01015",
+            "sector": "CEMENT",
+            "percentage": 0.036304,
+            "value": 18295.09
+        },
+        {
+            "stock_name": "Crompton Greaves Consumer Electricals Limited",
+            "isin": "INE299U01018",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.034327,
+            "value": 17298.7
+        },
+        {
+            "stock_name": "Axis Bank Limited",
+            "isin": "INE238A01034",
+            "sector": "BANKS",
+            "percentage": 0.032877,
+            "value": 16567.95
+        },
+        {
+            "stock_name": "Info Edge (India) Limited",
+            "isin": "INE663F01024",
+            "sector": "SOFTWARE",
+            "percentage": 0.032181,
+            "value": 16217.37
+        },
+        {
+            "stock_name": "The Ramco Cements Limited",
+            "isin": "INE331A01037",
+            "sector": "CEMENT",
+            "percentage": 0.030107,
+            "value": 15172.07
+        },
+        {
+            "stock_name": "Voltas Limited",
+            "isin": "INE226A01021",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.029193,
+            "value": 14711.42
+        },
+        {
+            "stock_name": "State Bank of India",
+            "isin": "INE062A01020",
+            "sector": "BANKS",
+            "percentage": 0.027208,
+            "value": 13710.88
+        },
+        {
+            "stock_name": "Natco Pharma Limited",
+            "isin": "INE987B01026",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.024682,
+            "value": 12438.02
+        },
+        {
+            "stock_name": "Larsen & Toubro Infotech Limited",
+            "isin": "INE214T01019",
+            "sector": "SOFTWARE",
+            "percentage": 0.022932,
+            "value": 11556.44
+        },
+        {
+            "stock_name": "Atul Limited",
+            "isin": "INE100A01010",
+            "sector": "CHEMICALS",
+            "percentage": 0.022884,
+            "value": 11531.98
+        },
+        {
+            "stock_name": "Bharti Airtel Limited",
+            "isin": "INE397D01024",
+            "sector": "TELECOM - SERVICES",
+            "percentage": 0.021245,
+            "value": 10705.84
+        },
+        {
+            "stock_name": "Bata India Limited",
+            "isin": "INE176A01028",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.019772,
+            "value": 9963.76
+        },
+        {
+            "stock_name": "ICICI Lombard General Insurance Company Limited",
+            "isin": "INE765G01017",
+            "sector": "FINANCE",
+            "percentage": 0.019584,
+            "value": 9869.15
+        },
+        {
+            "stock_name": "Gujarat Gas Limited",
+            "isin": "INE844O01030",
+            "sector": "GAS",
+            "percentage": 0.019083,
+            "value": 9616.73
+        },
+        {
+            "stock_name": "Titan Company Limited",
+            "isin": "INE280A01028",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.018798,
+            "value": 9472.78
+        },
+        {
+            "stock_name": "Bandhan Bank Limited",
+            "isin": "INE545U01014",
+            "sector": "BANKS",
+            "percentage": 0.018623,
+            "value": 9384.86
+        },
+        {
+            "stock_name": "Aditya Birla Fashion and Retail Limited",
+            "isin": "INE647O01011",
+            "sector": "RETAILING",
+            "percentage": 0.01848,
+            "value": 9312.84
+        },
+        {
+            "stock_name": "Quess Corp Limited",
+            "isin": "INE615P01015",
+            "sector": "SERVICES",
+            "percentage": 0.018109,
+            "value": 9125.78
+        },
+        {
+            "stock_name": "Whirlpool of India Limited",
+            "isin": "INE716A01013",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.016169,
+            "value": 8148.2
+        },
+        {
+            "stock_name": "Nestle India Limited",
+            "isin": "INE239A01016",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.015925,
+            "value": 8025.16
+        },
+        {
+            "stock_name": "Thermax Limited",
+            "isin": "INE152A01029",
+            "sector": "INDUSTRIAL CAPITAL GOODS",
+            "percentage": 0.015237,
+            "value": 7678.64
+        },
+        {
+            "stock_name": "RBL Bank Limited",
+            "isin": "INE976G01028",
+            "sector": "BANKS",
+            "percentage": 0.014614,
+            "value": 7364.51
+        },
+        {
+            "stock_name": "Oberoi Realty Limited",
+            "isin": "INE093I01010",
+            "sector": "CONSTRUCTION",
+            "percentage": 0.01452,
+            "value": 7316.99
+        },
+        {
+            "stock_name": "Avanti Feeds Limited",
+            "isin": "INE871C01038",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.013851,
+            "value": 6979.98
+        },
+        {
+            "stock_name": "JK Cement Limited",
+            "isin": "INE823G01014",
+            "sector": "CEMENT",
+            "percentage": 0.013751,
+            "value": 6929.75
+        },
+        {
+            "stock_name": "V-Guard Industries Limited",
+            "isin": "INE951I01027",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.012083,
+            "value": 6089.11
+        },
+        {
+            "stock_name": "SRF Limited",
+            "isin": "INE647A01010",
+            "sector": "TEXTILE PRODUCTS",
+            "percentage": 0.012023,
+            "value": 6059.02
+        },
+        {
+            "stock_name": "PI Industries Litmited",
+            "isin": "INE603J01030",
+            "sector": "PESTICIDES",
+            "percentage": 0.011549,
+            "value": 5820.02
+        },
+        {
+            "stock_name": "Jubilant Foodworks Limited",
+            "isin": "INE797F01012",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.011099,
+            "value": 5593.25
+        },
+        {
+            "stock_name": "Apollo Hospitals Enterprise Limited",
+            "isin": "INE437A01024",
+            "sector": "HEALTHCARE SERVICES",
+            "percentage": 0.010424,
+            "value": 5252.87
+        },
+        {
+            "stock_name": "PVR Limited",
+            "isin": "INE191H01014",
+            "sector": "MEDIA & ENTERTAINMENT",
+            "percentage": 0.009493,
+            "value": 4783.97
+        },
+        {
+            "stock_name": "LIC Housing Finance Limited",
+            "isin": "INE115A01026",
+            "sector": "FINANCE",
+            "percentage": 0.009102,
+            "value": 4586.68
+        },
+        {
+            "stock_name": "SBI Life Insurance Company Limited",
+            "isin": "INE123W01016",
+            "sector": "FINANCE",
+            "percentage": 0.009061,
+            "value": 4565.96
+        },
+        {
+            "stock_name": "Avenue Supermarts Limited",
+            "isin": "INE192R01011",
+            "sector": "RETAILING",
+            "percentage": 0.008884,
+            "value": 4477.03
+        },
+        {
+            "stock_name": "Century Textiles & Industries Limited",
+            "isin": "INE055A01016",
+            "sector": "PAPER",
+            "percentage": 0.007806,
+            "value": 3933.49
+        },
+        {
+            "stock_name": "L&T Technology Services Limited",
+            "isin": "INE010V01017",
+            "sector": "SOFTWARE",
+            "percentage": 0.007664,
+            "value": 3862.28
+        },
+        {
+            "stock_name": "Cholamandalam Investment and Finance Company Limited",
+            "isin": "INE121A01024",
+            "sector": "FINANCE",
+            "percentage": 0.007371,
+            "value": 3714.5
+        },
+        {
+            "stock_name": "Birla Corporation Limited",
+            "isin": "INE340A01012",
+            "sector": "CEMENT",
+            "percentage": 0.006688,
+            "value": 3370.13
+        },
+        {
+            "stock_name": "ICICI Securities Limited",
+            "isin": "INE763G01038",
+            "sector": "FINANCE",
+            "percentage": 0.006444,
+            "value": 3247.27
+        },
+        {
+            "stock_name": "Exide Industries Limited",
+            "isin": "INE302A01020",
+            "sector": "AUTO ANCILLARIES",
+            "percentage": 0.006044,
+            "value": 3045.97
+        },
+        {
+            "stock_name": "Affle (India) Limited",
+            "isin": "INE00WC01019",
+            "sector": "SOFTWARE",
+            "percentage": 0.006009,
+            "value": 3028.3
+        },
+        {
+            "stock_name": "Strides Pharma Science Limited",
+            "isin": "INE939A01011",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.00474,
+            "value": 2388.82
+        },
+        {
+            "stock_name": "Eris Lifesciences Limited",
+            "isin": "INE406M01024",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.004627,
+            "value": 2331.91
+        },
+        {
+            "stock_name": "Bayer Cropscience Limited",
+            "isin": "INE462A01022",
+            "sector": "PESTICIDES",
+            "percentage": 0.003805,
+            "value": 1917.52
+        },
+        {
+            "stock_name": "Karrox Technologies ** #",
+            "isin": "IDIA00187152",
+            "sector": "MISCELLANEOUS",
+            "percentage": 0,
+            "value": 0
+        },
+        {
+            "stock_name": "Dharti Dredging ** #",
+            "isin": "INE521H01012",
+            "sector": "MISCELLANEOUS",
+            "percentage": 0,
+            "value": 0
+        }
+    ],
+    "sector_allocation": [
+        {
+            "name": "BANKS",
+            "total_value": 147435.17,
+            "percentage_holding": 0.292639,
+            "number_of_stocks": 6,
+            "companies": [
+                "INE090A01021",
+                "INE040A01034",
+                "INE238A01034",
+                "INE062A01020",
+                "INE545U01014",
+                "INE976G01028"
+            ],
+            "allocation": 0.292639
+        },
+        {
+            "name": "FINANCE",
+            "total_value": 59238.51,
+            "percentage_holding": 0.117551,
+            "number_of_stocks": 5,
+            "companies": [
+                "INE296A01024",
+                "INE765G01017",
+                "INE115A01026",
+                "INE123W01016",
+                "INE121A01024",
+                "INE763G01038"
+            ],
+            "allocation": 0.117551
+        },
+        {
+            "name": "CONSUMER DURABLES",
+            "total_value": 76583.97,
+            "percentage_holding": 0.151973,
+            "number_of_stocks": 6,
+            "companies": [
+                "INE299U01018",
+                "INE226A01021",
+                "INE176A01028",
+                "INE280A01028",
+                "INE716A01013",
+                "INE951I01027"
+            ],
+            "allocation": 0.151973
+        },
+        {
+            "name": "SOFTWARE",
+            "total_value": 34664.39,
+            "percentage_holding": 0.068786,
+            "number_of_stocks": 4,
+            "companies": [
+                "INE663F01024",
+                "INE214T01019",
+                "INE010V01017",
+                "INE00WC01019"
+            ],
+            "allocation": 0.068786
+        },
+        {
+            "name": "CEMENT",
+            "total_value": 44867.04,
+            "percentage_holding": 0.089054,
+            "number_of_stocks": 4,
+            "companies": [
+                "INE070A01015",
+                "INE331A01037",
+                "INE823G01014",
+                "INE340A01012"
+            ],
+            "allocation": 0.089054
+        },
+        {
+            "name": "PHARMACEUTICALS",
+            "total_value": 17158.75,
+            "percentage_holding": 0.034049,
+            "number_of_stocks": 3,
+            "companies": [
+                "INE987B01026",
+2025-01-22 00:21:12,273 - processor - ERROR - [processors.py:124] - Failed to parse Claude's response as JSON: Expecting ',' delimiter: line 432 column 10 (char 12913)
+2025-01-22 00:21:12,275 - processor - ERROR - [processors.py:125] - Problematic response: Here is the extracted JSON object with all holdings and sector information from the provided mutual fund portfolio data:
+
+{
+    "fund_info": {
+        "name": "ADVG",
+        "id": null,
+        "type": null,
+        "aum": 503934.85,
+        "currency": "INR"
+    },
+    "holdings": [
+        {
+            "stock_name": "ICICI Bank Limited",
+            "isin": "INE090A01021",
+            "sector": "BANKS",
+            "percentage": 0.093367,
+            "value": 47051.07
+        },
+        {
+            "stock_name": "HDFC Bank Limited",
+            "isin": "INE040A01034",
+            "sector": "BANKS",
+            "percentage": 0.076688,
+            "value": 38645.9
+        },
+        {
+            "stock_name": "Bajaj Finance Limited",
+            "isin": "INE296A01024",
+            "sector": "FINANCE",
+            "percentage": 0.061407,
+            "value": 30945.32
+        },
+        {
+            "stock_name": "Reliance Industries Limited",
+            "isin": "INE002A01018",
+            "sector": "PETROLEUM PRODUCTS",
+            "percentage": 0.049733,
+            "value": 25061.94
+        },
+        {
+            "stock_name": "Shree Cement Limited",
+            "isin": "INE070A01015",
+            "sector": "CEMENT",
+            "percentage": 0.036304,
+            "value": 18295.09
+        },
+        {
+            "stock_name": "Crompton Greaves Consumer Electricals Limited",
+            "isin": "INE299U01018",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.034327,
+            "value": 17298.7
+        },
+        {
+            "stock_name": "Axis Bank Limited",
+            "isin": "INE238A01034",
+            "sector": "BANKS",
+            "percentage": 0.032877,
+            "value": 16567.95
+        },
+        {
+            "stock_name": "Info Edge (India) Limited",
+            "isin": "INE663F01024",
+            "sector": "SOFTWARE",
+            "percentage": 0.032181,
+            "value": 16217.37
+        },
+        {
+            "stock_name": "The Ramco Cements Limited",
+            "isin": "INE331A01037",
+            "sector": "CEMENT",
+            "percentage": 0.030107,
+            "value": 15172.07
+        },
+        {
+            "stock_name": "Voltas Limited",
+            "isin": "INE226A01021",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.029193,
+            "value": 14711.42
+        },
+        {
+            "stock_name": "State Bank of India",
+            "isin": "INE062A01020",
+            "sector": "BANKS",
+            "percentage": 0.027208,
+            "value": 13710.88
+        },
+        {
+            "stock_name": "Natco Pharma Limited",
+            "isin": "INE987B01026",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.024682,
+            "value": 12438.02
+        },
+        {
+            "stock_name": "Larsen & Toubro Infotech Limited",
+            "isin": "INE214T01019",
+            "sector": "SOFTWARE",
+            "percentage": 0.022932,
+            "value": 11556.44
+        },
+        {
+            "stock_name": "Atul Limited",
+            "isin": "INE100A01010",
+            "sector": "CHEMICALS",
+            "percentage": 0.022884,
+            "value": 11531.98
+        },
+        {
+            "stock_name": "Bharti Airtel Limited",
+            "isin": "INE397D01024",
+            "sector": "TELECOM - SERVICES",
+            "percentage": 0.021245,
+            "value": 10705.84
+        },
+        {
+            "stock_name": "Bata India Limited",
+            "isin": "INE176A01028",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.019772,
+            "value": 9963.76
+        },
+        {
+            "stock_name": "ICICI Lombard General Insurance Company Limited",
+            "isin": "INE765G01017",
+            "sector": "FINANCE",
+            "percentage": 0.019584,
+            "value": 9869.15
+        },
+        {
+            "stock_name": "Gujarat Gas Limited",
+            "isin": "INE844O01030",
+            "sector": "GAS",
+            "percentage": 0.019083,
+            "value": 9616.73
+        },
+        {
+            "stock_name": "Titan Company Limited",
+            "isin": "INE280A01028",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.018798,
+            "value": 9472.78
+        },
+        {
+            "stock_name": "Bandhan Bank Limited",
+            "isin": "INE545U01014",
+            "sector": "BANKS",
+            "percentage": 0.018623,
+            "value": 9384.86
+        },
+        {
+            "stock_name": "Aditya Birla Fashion and Retail Limited",
+            "isin": "INE647O01011",
+            "sector": "RETAILING",
+            "percentage": 0.01848,
+            "value": 9312.84
+        },
+        {
+            "stock_name": "Quess Corp Limited",
+            "isin": "INE615P01015",
+            "sector": "SERVICES",
+            "percentage": 0.018109,
+            "value": 9125.78
+        },
+        {
+            "stock_name": "Whirlpool of India Limited",
+            "isin": "INE716A01013",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.016169,
+            "value": 8148.2
+        },
+        {
+            "stock_name": "Nestle India Limited",
+            "isin": "INE239A01016",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.015925,
+            "value": 8025.16
+        },
+        {
+            "stock_name": "Thermax Limited",
+            "isin": "INE152A01029",
+            "sector": "INDUSTRIAL CAPITAL GOODS",
+            "percentage": 0.015237,
+            "value": 7678.64
+        },
+        {
+            "stock_name": "RBL Bank Limited",
+            "isin": "INE976G01028",
+            "sector": "BANKS",
+            "percentage": 0.014614,
+            "value": 7364.51
+        },
+        {
+            "stock_name": "Oberoi Realty Limited",
+            "isin": "INE093I01010",
+            "sector": "CONSTRUCTION",
+            "percentage": 0.01452,
+            "value": 7316.99
+        },
+        {
+            "stock_name": "Avanti Feeds Limited",
+            "isin": "INE871C01038",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.013851,
+            "value": 6979.98
+        },
+        {
+            "stock_name": "JK Cement Limited",
+            "isin": "INE823G01014",
+            "sector": "CEMENT",
+            "percentage": 0.013751,
+            "value": 6929.75
+        },
+        {
+            "stock_name": "V-Guard Industries Limited",
+            "isin": "INE951I01027",
+            "sector": "CONSUMER DURABLES",
+            "percentage": 0.012083,
+            "value": 6089.11
+        },
+        {
+            "stock_name": "SRF Limited",
+            "isin": "INE647A01010",
+            "sector": "TEXTILE PRODUCTS",
+            "percentage": 0.012023,
+            "value": 6059.02
+        },
+        {
+            "stock_name": "PI Industries Litmited",
+            "isin": "INE603J01030",
+            "sector": "PESTICIDES",
+            "percentage": 0.011549,
+            "value": 5820.02
+        },
+        {
+            "stock_name": "Jubilant Foodworks Limited",
+            "isin": "INE797F01012",
+            "sector": "CONSUMER NON DURABLES",
+            "percentage": 0.011099,
+            "value": 5593.25
+        },
+        {
+            "stock_name": "Apollo Hospitals Enterprise Limited",
+            "isin": "INE437A01024",
+            "sector": "HEALTHCARE SERVICES",
+            "percentage": 0.010424,
+            "value": 5252.87
+        },
+        {
+            "stock_name": "PVR Limited",
+            "isin": "INE191H01014",
+            "sector": "MEDIA & ENTERTAINMENT",
+            "percentage": 0.009493,
+            "value": 4783.97
+        },
+        {
+            "stock_name": "LIC Housing Finance Limited",
+            "isin": "INE115A01026",
+            "sector": "FINANCE",
+            "percentage": 0.009102,
+            "value": 4586.68
+        },
+        {
+            "stock_name": "SBI Life Insurance Company Limited",
+            "isin": "INE123W01016",
+            "sector": "FINANCE",
+            "percentage": 0.009061,
+            "value": 4565.96
+        },
+        {
+            "stock_name": "Avenue Supermarts Limited",
+            "isin": "INE192R01011",
+            "sector": "RETAILING",
+            "percentage": 0.008884,
+            "value": 4477.03
+        },
+        {
+            "stock_name": "Century Textiles & Industries Limited",
+            "isin": "INE055A01016",
+            "sector": "PAPER",
+            "percentage": 0.007806,
+            "value": 3933.49
+        },
+        {
+            "stock_name": "L&T Technology Services Limited",
+            "isin": "INE010V01017",
+            "sector": "SOFTWARE",
+            "percentage": 0.007664,
+            "value": 3862.28
+        },
+        {
+            "stock_name": "Cholamandalam Investment and Finance Company Limited",
+            "isin": "INE121A01024",
+            "sector": "FINANCE",
+            "percentage": 0.007371,
+            "value": 3714.5
+        },
+        {
+            "stock_name": "Birla Corporation Limited",
+            "isin": "INE340A01012",
+            "sector": "CEMENT",
+            "percentage": 0.006688,
+            "value": 3370.13
+        },
+        {
+            "stock_name": "ICICI Securities Limited",
+            "isin": "INE763G01038",
+            "sector": "FINANCE",
+            "percentage": 0.006444,
+            "value": 3247.27
+        },
+        {
+            "stock_name": "Exide Industries Limited",
+            "isin": "INE302A01020",
+            "sector": "AUTO ANCILLARIES",
+            "percentage": 0.006044,
+            "value": 3045.97
+        },
+        {
+            "stock_name": "Affle (India) Limited",
+            "isin": "INE00WC01019",
+            "sector": "SOFTWARE",
+            "percentage": 0.006009,
+            "value": 3028.3
+        },
+        {
+            "stock_name": "Strides Pharma Science Limited",
+            "isin": "INE939A01011",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.00474,
+            "value": 2388.82
+        },
+        {
+            "stock_name": "Eris Lifesciences Limited",
+            "isin": "INE406M01024",
+            "sector": "PHARMACEUTICALS",
+            "percentage": 0.004627,
+            "value": 2331.91
+        },
+        {
+            "stock_name": "Bayer Cropscience Limited",
+            "isin": "INE462A01022",
+            "sector": "PESTICIDES",
+            "percentage": 0.003805,
+            "value": 1917.52
+        },
+        {
+            "stock_name": "Karrox Technologies ** #",
+            "isin": "IDIA00187152",
+            "sector": "MISCELLANEOUS",
+            "percentage": 0,
+            "value": 0
+        },
+        {
+            "stock_name": "Dharti Dredging ** #",
+            "isin": "INE521H01012",
+            "sector": "MISCELLANEOUS",
+            "percentage": 0,
+            "value": 0
+        }
+    ],
+    "sector_allocation": [
+        {
+            "name": "BANKS",
+            "total_value": 147435.17,
+            "percentage_holding": 0.292639,
+            "number_of_stocks": 6,
+            "companies": [
+                "INE090A01021",
+                "INE040A01034",
+                "INE238A01034",
+                "INE062A01020",
+                "INE545U01014",
+                "INE976G01028"
+            ],
+            "allocation": 0.292639
+        },
+        {
+            "name": "FINANCE",
+            "total_value": 59238.51,
+            "percentage_holding": 0.117551,
+            "number_of_stocks": 5,
+            "companies": [
+                "INE296A01024",
+                "INE765G01017",
+                "INE115A01026",
+                "INE123W01016",
+                "INE121A01024",
+                "INE763G01038"
+            ],
+            "allocation": 0.117551
+        },
+        {
+            "name": "CONSUMER DURABLES",
+            "total_value": 76583.97,
+            "percentage_holding": 0.151973,
+            "number_of_stocks": 6,
+            "companies": [
+                "INE299U01018",
+                "INE226A01021",
+                "INE176A01028",
+                "INE280A01028",
+                "INE716A01013",
+                "INE951I01027"
+            ],
+            "allocation": 0.151973
+        },
+        {
+            "name": "SOFTWARE",
+            "total_value": 34664.39,
+            "percentage_holding": 0.068786,
+            "number_of_stocks": 4,
+            "companies": [
+                "INE663F01024",
+                "INE214T01019",
+                "INE010V01017",
+                "INE00WC01019"
+            ],
+            "allocation": 0.068786
+        },
+        {
+            "name": "CEMENT",
+            "total_value": 44867.04,
+            "percentage_holding": 0.089054,
+            "number_of_stocks": 4,
+            "companies": [
+                "INE070A01015",
+                "INE331A01037",
+                "INE823G01014",
+                "INE340A01012"
+            ],
+            "allocation": 0.089054
+        },
+        {
+            "name": "PHARMACEUTICALS",
+            "total_value": 17158.75,
+            "percentage_holding": 0.034049,
+            "number_of_stocks": 3,
+            "companies": [
+                "INE987B01026",
+2025-01-22 00:21:12,307 - processor - ERROR - [processors.py:129] - Error processing file C:\Users\MKU257\Portfolio\WebScraping\AIModel\uploads\Monthly-Portfolio-January-2020.xls: Expecting ',' delimiter: line 432 column 10 (char 12913)
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\models\processors.py", line 111, in process_file
+    extracted_data = json.loads(json_str)
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Program Files\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 432 column 10 (char 12913)

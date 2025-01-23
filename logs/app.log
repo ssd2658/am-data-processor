@@ -1,0 +1,122 @@
+2025-01-21 22:25:37,905 - fund_extractor - INFO - [app.py:31] - Initializing DocumentProcessor and DatabaseManager
+2025-01-21 22:25:38,059 - fund_extractor - INFO - [app.py:36] - Configuring Jinja2 templates
+2025-01-21 22:25:38,208 - fund_extractor - INFO - [app.py:192] - Starting Fund Data Extractor application
+2025-01-21 22:25:49,968 - fund_extractor - INFO - [app.py:48] - Received upload request for 1 files
+2025-01-21 22:25:49,969 - fund_extractor - INFO - [app.py:52] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-21 22:26:23,110 - fund_extractor - INFO - [app.py:68] - Starting document processing for: Monthly-Portfolio-January-2020.xls
+2025-01-21 23:14:04,998 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-21 23:14:05,470 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-21 23:27:37,575 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-21 23:27:38,279 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-21 23:36:36,458 - fund_extractor - INFO - [app.py:50] - Serving home page
+2025-01-21 23:36:45,923 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-21 23:36:46,293 - fund_extractor - INFO - [app.py:77] - Processing file: SEBI_Monthly_Portfolio 31 OCT 2024.xls
+2025-01-21 23:37:05,936 - fund_extractor - ERROR - [app.py:173] - Error processing fund data: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:37:05,936 - fund_extractor - ERROR - [app.py:95] - Error processing SEBI_Monthly_Portfolio 31 OCT 2024.xls: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 81, in upload_files
+    fund_data = await process_fund_data(processed_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:37:33,809 - fund_extractor - INFO - [app.py:50] - Serving home page
+2025-01-21 23:38:07,629 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-21 23:38:07,646 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-21 23:38:28,241 - fund_extractor - ERROR - [app.py:173] - Error processing fund data: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:38:28,242 - fund_extractor - ERROR - [app.py:95] - Error processing Monthly-Portfolio-January-2020.xls: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 81, in upload_files
+    fund_data = await process_fund_data(processed_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:39:52,893 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-21 23:39:53,325 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-21 23:40:16,997 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-21 23:40:17,009 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-21 23:40:28,315 - fund_extractor - ERROR - [app.py:173] - Error processing fund data: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:40:28,317 - fund_extractor - ERROR - [app.py:95] - Error processing Monthly-Portfolio-January-2020.xls: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 81, in upload_files
+    fund_data = await process_fund_data(processed_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:42:50,192 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-21 23:42:50,589 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-21 23:42:56,361 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-21 23:42:56,374 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-21 23:43:09,380 - fund_extractor - ERROR - [app.py:173] - Error processing fund data: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-21 23:43:09,381 - fund_extractor - ERROR - [app.py:95] - Error processing Monthly-Portfolio-January-2020.xls: could not convert string to float: 'None'
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 81, in upload_files
+    fund_data = await process_fund_data(processed_data)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 141, in process_fund_data
+    aum=float(processed_data['entities']['amounts'][0]),
+        ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: 'None'
+2025-01-22 00:04:33,456 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:04:33,898 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:04:49,378 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:04:50,118 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:06:17,077 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-22 00:06:17,091 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-22 00:08:53,912 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:08:54,342 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:09:21,383 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-22 00:09:21,395 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-22 00:11:31,191 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:11:31,980 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:11:52,888 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:11:53,334 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:12:16,219 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:12:16,673 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:12:36,779 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-22 00:12:36,791 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-22 00:18:21,319 - fund_extractor - INFO - [app.py:36] - Initializing DocumentProcessor and DatabaseManager
+2025-01-22 00:18:21,783 - fund_extractor - INFO - [app.py:41] - Configuring Jinja2 templates
+2025-01-22 00:18:42,636 - fund_extractor - INFO - [app.py:56] - Received upload request for 1 files
+2025-01-22 00:18:42,653 - fund_extractor - INFO - [app.py:77] - Processing file: Monthly-Portfolio-January-2020.xls
+2025-01-22 00:21:12,311 - fund_extractor - ERROR - [app.py:95] - Error processing Monthly-Portfolio-January-2020.xls: Expecting ',' delimiter: line 432 column 10 (char 12913)
+Traceback (most recent call last):
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\app.py", line 78, in upload_files
+    processed_data = document_processor.process_file(str(file_path))
+  File "C:\Users\MKU257\Portfolio\WebScraping\AIModel\models\processors.py", line 111, in process_file
+    extracted_data = json.loads(json_str)
+  File "C:\Program Files\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Program Files\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python313\Lib\json\decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 432 column 10 (char 12913)
